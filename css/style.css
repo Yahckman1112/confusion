@@ -37,3 +37,25 @@ body{
 .navbar-dark{
     background-color: #512DAB;
 }
+.btn-success{
+    padding-left: 10px;
+    width: 180px;
+    /* background-color: rgb(212, 212, 39); */
+    color: black;
+    align-items: right;
+    text-align: center;
+    margin-top: 100%;
+
+
+}
+
+.btn-success::hover{
+    color: wheat;
+    text-align: center;
+}
+
+.rot{
+    align-items: center;
+    align-content: center;
+    padding-left: 20%;
+}
