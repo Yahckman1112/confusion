@@ -37,10 +37,10 @@ body{
 .navbar-dark{
     background-color: #512DAB;
 }
-.btn-success{
+/* .btn-success{
     padding-left: 10px;
     width: 180px;
-    /* background-color: rgb(212, 212, 39); */
+    background-color: rgb(212, 212, 39);
     color: black;
     align-items: right;
     text-align: center;
@@ -52,7 +52,7 @@ body{
 .btn-success::hover{
     color: wheat;
     text-align: center;
-}
+} */
 
 .rot{
     align-items: center;
@@ -83,6 +83,11 @@ body{
     min-height: 300px;
 }
 
+#carouselButton{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
 
 
 
